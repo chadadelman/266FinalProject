@@ -1,0 +1,31 @@
+Hamlet
+	Text: https://www.gutenberg.org/cache/epub/1524/pg1524.txt
+	Summary Link: https://shakespeare-navigators.ewu.edu/hamlet/Sceneidx.html
+
+Julius_Caesar 
+	Text: https://www.gutenberg.org/cache/epub/1522/pg1522.txt
+	Summary Link: https://shakespeare-navigators.ewu.edu/JC_Navigator/SceneIndex.html
+
+MacBeth 
+	Text: https://www.gutenberg.org/cache/epub/2264/pg2264.txt
+	Summary Link: https://shakespeare-navigators.ewu.edu/macbeth/SceneIndex.html
+
+Much_Ado_About_Nothing 
+	Text: https://www.gutenberg.org/cache/epub/1519/pg1519.txt
+	Summary Link: https://shakespeare-navigators.ewu.edu/ado/AdoSceneTextIndex.html
+
+Othello
+	Text: https://www.gutenberg.org/cache/epub/1531/pg1531.txt
+	Summary Link: https://shakespeare-navigators.ewu.edu/othello/Scene_Summary_Index.html
+
+Romeo_and_Juliet
+	Text Link: https://www.gutenberg.org/cache/epub/1513/pg1513.txt
+	Summary Link: https://shakespeare-navigators.ewu.edu/romeo/SceneIndex.html
+
+The_Taming_Of_The_Shrew 
+	Text: https://www.gutenberg.org/cache/epub/1508/pg1508.txt
+	Summary Link: https://shakespeare-navigators.ewu.edu/shrew/ShrewSceneIndex.html
+
+Twelfth_Night 
+	Text: https://www.gutenberg.org/cache/epub/1526/pg1526.txt
+	Summary Link: https://shakespeare-navigators.ewu.edu/TN_Navigator/TextIndex.html
