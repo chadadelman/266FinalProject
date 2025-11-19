@@ -29,3 +29,22 @@ The_Taming_Of_The_Shrew
 Twelfth_Night 
 	Text: https://www.gutenberg.org/cache/epub/1526/pg1526.txt
 	Summary Link: https://shakespeare-navigators.ewu.edu/TN_Navigator/TextIndex.html
+
+King_Lear 
+	Text: https://www.gutenberg.org/cache/epub/1532/pg1532.txt
+	Summary Link: 
+
+The_Winters_Tale 
+	Text: https://www.gutenberg.org/cache/epub/1539/pg1539.txt
+	Summary Link: 
+
+The_Merchent_of_Venice 
+	Text: https://www.gutenberg.org/cache/epub/1515/pg1515.txt
+	Summary Link: 
+
+A_Midsummer_Nights_Dream 
+	Text: https://www.gutenberg.org/cache/epub/1514/pg1514.txt
+	Summary Link:
+
+
+
