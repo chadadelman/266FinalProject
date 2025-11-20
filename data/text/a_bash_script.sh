@@ -1,9 +1,9 @@
-touch Text/Antony_and_Cleopatra.txt
-touch Text/King_Henry_IV_Part 2.txt
-touch Text/King_Henry_VIII.txt
-touch Text/King_Henry_VI_Part_2.txt
-touch Text/King_John.txt
-touch Text/King_Richard_II.txt
-touch Text/King_Henry_V.txt
-touch Text/King_Henry_VI_Part_3.txt
-touch Text/King_Henry_IV_Part_1.txt
+touch jonson/Every_Man_in_His_Humour.txt
+touch jonson/Every_Man_out_of_His_Humour.txt
+touch jonson/The_Poetaster.txt
+touch jonson/Sejanus_His_Fall.txt
+touch jonson/Volpone_Or_The_Fox.txt
+touch jonson/Epicoene_Or_The_Silent_Woman.txt
+touch jonson/The_Alchemist.txt
+touch jonson/Bartholomew_Fair.txt
+touch jonson/The_Devil_is_an_Ass.txt
