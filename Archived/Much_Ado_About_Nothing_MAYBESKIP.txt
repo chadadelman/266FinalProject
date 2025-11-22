@@ -11,14 +11,17 @@ ACT 1, SCENE 1
     Don Pedro sends Benedick to assure Leonato that Don Pedro will come to supper with him.
 (1.1.290) Exit [Benedick].
     Claudio declares his love for Hero and asks Don Pedro for help. Don Pedro sees no need for dilly-dallying; he promises that at Leonato's "revelling" that night he will disguise himself as Claudio, win Hero's heart, and make the proper arrangements with Leonato, so that "the conclusion is, she shall be thine." And so away they go.
+
 ACT 1, SCENE 2
 (1.2.1) Enter LEONATO and an old man [ANTONIO], brother to Leonato, [meeting].
     Antonio tells Leonato that a servant of his heard Don Pedro and Claudio talking about Hero. However, somebody has gotten the story wrong. Antonio thinks it is Don Pedro who is in love with Hero and will propose marriage to her that very night. Leonato is very happy at this prospect.
+
 ACT 1, SCENE 3
 (1.3.1) Enter [DON] JOHN the Bastard and CONRADE, his companion.
     Don John is in a foul mood, and Conrade tries to talk him down, but Don John holds firmly to his resentment of his brother, who has defeated him in battle, and who has then forgiven him. Don John hates his own hypocrisy and says, "If I had my mouth, I would bite."
 (1.3.41) Enter BORACHIO.
     Borachio delivers the news that Claudio is about to marry Hero. (However, Borachio has gotten the story wrong. He says, "it agreed upon that the prince should woo Hero for himself, and having obtained her, give her to Count Claudio.") Don John sees this as an opportunity to get back at Claudio, who has gotten credit for his "overthrow." He and his companions head for the feast, intending to do something to ruin Claudio's happiness.
+
 ACT 2, SCENE 1
 (2.1.1) Enter LEONATO, [ANTONIO] his brother, HERO his daughter, and BEATRICE his niece, [MARGARET, URSULA,] and a KINSMAN.
     Just after supper, and just before the dancing begins, there is light-hearted chatter, mostly by Beatrice, who has an opinion about everybody. She comments on how sour Don John is and on what a babbler Benedick is. Antonio says that Beatrice is "too curst" to get a husband, and Beatrice replies that she is glad of it, because it would "grieve a woman to be overmastered with a piece of valiant dust."
@@ -44,6 +47,7 @@ ACT 2, SCENE 1
     Beatrice humorously complains that everyone is getting married but her, and she can't get a husband. Don Pedro offers to get one for her: himself. He seems to be at least half-serious, but Beatrice turns him down with a flattering jest; when he asks if she will have him, she replies, "No, my lord, unless I might have another for working-days: your grace is too costly to wear every day." Don Pedro admires her merry spirit, and then Leonato sends her away on an errand.
 (2.1.341) Exit [Beatrice].
     Don Pedro and Leonato discuss Beatrice, especially her aversion to marriage, and then Don Pedro makes an amazing statement: "She were an excellent wife for Benedict." Leonato exclaims, "O Lord, my lord, if they were but a week married, they would talk themselves mad," but Don Pedro isn't just joking; he has a plan to make Benedick and Beatrice fall in love. He asks if all present (Claudio, Hero, and Leonato) will assist him. They say they will, and he invites them to go in with him and hear about his plan.
+
 ACT 2, SCENE 2
 (2.2.1) Enter [DON] JOHN and BORACHIO.
     Borachio describes his plan for ruining the wedding of Claudio and Hero. Margaret, Hero's chambermaid, likes Borachio and will agree to play a flirtatious game with him, in which she will pretend to be the lady Hero. Margaret, not having any idea about Borachio's evil intentions, will appear at Hero's window in the night, where Borachio will talk sweet nothings to her and call her "Hero." Don John will have Claudio and Don Pedro witness this charade. They will think that Margaret is Hero and be convinced that Claudio is about to marry a "contaminated stale."
